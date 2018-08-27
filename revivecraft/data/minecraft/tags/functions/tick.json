@@ -1,0 +1,6 @@
+{
+ "values": [
+ "revivecraft:check_if_players_died",
+ "revivecraft:check_player_head"
+ ]
+}

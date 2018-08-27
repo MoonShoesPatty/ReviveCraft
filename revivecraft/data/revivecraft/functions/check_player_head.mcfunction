@@ -1,0 +1,10 @@
+execute if block 0 64 0 player_head{Owner:{Name:Moron_Face}} run execute unless score Moron_Face Health = Moron_Face zero run execute as Moron_Face run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:EricTheBarbaric}} run execute unless score EricTheBarbaric Health = Moron_Face zero run execute as EricTheBarbaric run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:StalinsCousin}} run execute unless score StalinsCousin Health = Moron_Face zero run execute as StalinsCousin run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:tkatchenov}} run execute unless score tkatchenov Health = Moron_Face zero run execute as tkatchenov run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:MoonShoesPatty}} run execute unless score MoonShoesPatty Health = Moron_Face zero run execute as MoonShoesPatty run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:vanguard227}} run execute unless score vanguard227 Health = Moron_Face zero run execute as vanguard227 run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:leanandkeen}} run execute unless score leanandkeen Health = Moron_Face zero run execute as leanandkeen run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:jbontje}} run execute unless score jbontje Health = Moron_Face zero run execute as jbontje run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:mbizzle42}} run execute unless score mbizzle42 Health = Moron_Face zero run execute as mbizzle42 run function revivecraft:revive
+execute if block 0 64 0 player_head{Owner:{Name:BobThompkins}} run execute unless score BobThompkins Health = Moron_Face zero run execute as BobThompkins run function revivecraft:revive

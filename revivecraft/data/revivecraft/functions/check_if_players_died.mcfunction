@@ -1,0 +1,10 @@
+execute if score Moron_Face hasDied > Moron_Face zero run function revivecraft:moron_face_died
+execute if score EricTheBarbaric hasDied > Moron_Face zero run function revivecraft:ericthebarbaric_died
+execute if score StalinsCousin hasDied > Moron_Face zero run function revivecraft:stalinscousin_died
+execute if score tkatchenov hasDied > Moron_Face zero run function revivecraft:tkatchenov_died
+execute if score MoonShoesPatty hasDied > Moron_Face zero run function revivecraft:moonshoespatty_died
+execute if score vanguard227 hasDied > Moron_Face zero run function revivecraft:vanguard227_died
+execute if score leanandkeen hasDied > Moron_Face zero run function revivecraft:leanandkeen_died
+execute if score jbontje hasDied > Moron_Face zero run function revivecraft:jbontje_died
+execute if score mbizzle42 hasDied > Moron_Face zero run function revivecraft:mbizzle42_died
+execute if score BobThompkins hasDied > Moron_Face zero run function revivecraft:bobthompkins_died
